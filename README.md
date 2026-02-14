@@ -5,9 +5,7 @@
 
 ---
 
-## 🚀 Programming Languages
-<h3>Things I code with</h3>
-## 🚀 Tech Stack
+<h3>Things I code with 🚀</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
