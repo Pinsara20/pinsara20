@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pinsara Pasandul.
+# Hi 👋 I'm Pinsara Pasandul..
 
 💻 Software Developer | Problem Solver | Tech Enthusiast  
 🚀 Passionate about building scalable systems and impactful digital products  
